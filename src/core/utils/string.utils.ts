@@ -1,0 +1,1 @@
+export const createAlias = (inputText: string) => inputText.toLowerCase().split(' ').join('-');
